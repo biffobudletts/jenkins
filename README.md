@@ -1,2 +1,2 @@
 # jenkins
-Jenkins repo for intial setup and etsting 
+Jenkins repo for intial setup and testing 
